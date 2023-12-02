@@ -19,6 +19,9 @@ https://jate-pwa19-3f32060688f0.herokuapp.com/
 
 
 ## Screen Shots
+![jate - J A T E 12_2_2023 2_52_27 PM](https://github.com/FranklinBrad/19-PWA/assets/144159410/32d61a68-d6c6-4ea4-b0a8-2a4105652a29)
+![jate - J A T E 12_2_2023 2_52_54 PM](https://github.com/FranklinBrad/19-PWA/assets/144159410/67c32b4b-db01-42aa-91ca-1cabb3eda69f)
+![jate - J A T E 12_2_2023 2_53_30 PM](https://github.com/FranklinBrad/19-PWA/assets/144159410/5f824f6b-6ce6-47c4-9114-87c720f829e9)
 
 
 ## sources
