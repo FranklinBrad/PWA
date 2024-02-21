@@ -14,8 +14,6 @@ to install this app enter "npm run sart" in your terminal, "Now listening on por
 
 Once downloaded to your machine you can add and edit text even without internet connection and it will be saved.
 
-## Heroku Link
-https://jate-pwa19-3f32060688f0.herokuapp.com/
 
 
 ## Screen Shots
